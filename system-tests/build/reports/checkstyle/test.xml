@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.21.1">
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/util/HttpRequestLoggerConsumer.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/util/ConfigPropertiesLoader.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/util/HttpRequestLoggerContainer.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/util/TransferUtil.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/basic/Basic03configurationTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/basic/Basic01basicConnectorTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/basic/Basic02healthEndpointTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/policy/Policy01BasicTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/federated/catalog/FederatedCatalog02standaloneTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/federated/catalog/FederatedCatalog01embeddedTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/federated/catalog/FederatedCatalog03staticNodeResolverTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/advanced/Advanced01openTelemetryTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/common/NegotiationCommon.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/common/PrerequisitesCommon.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/common/FederatedCatalogCommon.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/common/FileTransferCommon.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/common/FileTransferCloudCommon.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/common/PolicyCommon.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/Transfer04eventConsumerTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/Transfer03httpProxyConsumerPullTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/Transfer02providerPushTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/Transfer05fileTransferCloudTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/Transfer01negotiationTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/streaming/Streaming01httpToHttpTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/streaming/Streaming02KafkaToHttpTest.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/streaming/StreamingParticipant.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/streaming/KafkaSaslContainer.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/system-tests/src/test/java/org/eclipse/edc/samples/transfer/streaming/Streaming03KafkaToKafkaTest.java">
+</file>
+</checkstyle>
