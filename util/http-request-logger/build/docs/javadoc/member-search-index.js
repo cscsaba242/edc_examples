@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.eclipse.edc.samples.util","c":"HttpRequestLoggerServer","l":"HttpRequestLoggerServer()","u":"%3Cinit%3E()"},{"p":"org.eclipse.edc.samples.util","c":"HttpRequestLoggerServer","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

@@ -1,0 +1,7 @@
+-classpath '/home/cscsaba242/Projects/Samples/util/http-request-logger/build/classes/java/main:/home/cscsaba242/Projects/Samples/util/http-request-logger/build/resources/main'
+-d '/home/cscsaba242/Projects/Samples/util/http-request-logger/build/docs/javadoc'
+-doctitle 'http-request-logger API'
+-notimestamp 
+-quiet 
+-windowtitle 'http-request-logger API'
+'/home/cscsaba242/Projects/Samples/util/http-request-logger/src/main/java/org/eclipse/edc/samples/util/HttpRequestLoggerServer.java'
