@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.eclipse.edc.sample.extension.policy","l":"LocationConstraintFunction"},{"p":"org.eclipse.edc.sample.extension.policy","l":"PolicyFunctionsExtension"}];updateSearchResults();

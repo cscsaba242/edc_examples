@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.21.1">
+<file name="/home/cscsaba242/Projects/Samples/policy/policy-01-policy-enforcement/policy-functions/src/main/java/org/eclipse/edc/sample/extension/policy/PolicyFunctionsExtension.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/policy/policy-01-policy-enforcement/policy-functions/src/main/java/org/eclipse/edc/sample/extension/policy/LocationConstraintFunction.java">
+</file>
+</checkstyle>
