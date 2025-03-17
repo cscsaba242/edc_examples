@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.21.1">
+<file name="/home/cscsaba242/Projects/Samples/basic/basic-03-configuration/src/main/java/org/eclipse/edc/extension/health/HealthEndpointExtension.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/basic/basic-03-configuration/src/main/java/org/eclipse/edc/extension/health/HealthApiController.java">
+</file>
+</checkstyle>
