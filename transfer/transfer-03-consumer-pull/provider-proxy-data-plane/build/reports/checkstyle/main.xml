@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.21.1">
+<file name="/home/cscsaba242/Projects/Samples/transfer/transfer-03-consumer-pull/provider-proxy-data-plane/src/main/java/org/eclipse/edc/sample/extension/proxy/ProxyController.java">
+</file>
+<file name="/home/cscsaba242/Projects/Samples/transfer/transfer-03-consumer-pull/provider-proxy-data-plane/src/main/java/org/eclipse/edc/sample/extension/proxy/CustomProxyDataPlaneExtension.java">
+</file>
+</checkstyle>

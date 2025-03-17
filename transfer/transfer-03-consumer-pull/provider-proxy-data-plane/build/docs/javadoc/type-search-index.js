@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.eclipse.edc.sample.extension.proxy","l":"CustomProxyDataPlaneExtension"},{"p":"org.eclipse.edc.sample.extension.proxy","l":"ProxyController"}];updateSearchResults();
